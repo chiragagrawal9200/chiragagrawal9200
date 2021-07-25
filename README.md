@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="Banner.png">
-A bit about Myself, I am <b>Chirag Agrawal</b> pursuing a <b>Computer Engineering</b> from St. Vincent Pallotti College of Engineering and Technology
+A bit about Myself, I am <b>Chirag Agrawal</b> pursuing <b>Computer Engineering</b> from St. Vincent Pallotti College of Engineering and Technology
 . I am a Microsoft Learn Student Ambassador. ⚡
 
 <h1 align="center">Tech-Stack</h1>
