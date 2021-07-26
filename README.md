@@ -31,3 +31,12 @@ I am learning web development and having knowledge of HTML,CSS & Javascript. Bes
 </p>
 
 <h1 align="center">Let's Get Connected</h1>
+I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/chirag-agrawal9200/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Chiragagrwal7" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:chirag9200@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
