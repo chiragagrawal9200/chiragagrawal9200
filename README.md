@@ -32,7 +32,7 @@ I am learning web development and having knowledge of HTML,CSS & Javascript. Bes
 </p>
 
 <h1 align="center">Let's Get Connected</h1>
-<p>I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:</p>
+<p>I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </p>
 
 <div align="center">
 
