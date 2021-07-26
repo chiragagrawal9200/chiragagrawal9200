@@ -1,4 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <!--
 **chiragagrawal9200/chiragagrawal9200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="Banner.png">
-A bit about Myself, I am <b>Chirag Agrawal</b> pursuing <b>Computer Engineering</b> from St. Vincent Pallotti College of Engineering and Technology, Nagpur
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Chirag Agrawal</h1>
+I am a Web Developer who loves contributing to communities. I am pursuing <b>Computer Engineering</b> from St. Vincent Pallotti College of Engineering and Technology, Nagpur
 . I am a Microsoft Learn Student Ambassador. ⚡
 
 <h1 align="center">Tech-Stack</h1>
