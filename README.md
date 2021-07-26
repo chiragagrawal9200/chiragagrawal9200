@@ -31,7 +31,7 @@ I am learning web development and having knowledge of HTML,CSS & Javascript. Bes
 </p>
 
 <h1 align="center">Let's Get Connected</h1>
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+<p>I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:</p>
 
 <div align="center">
 
