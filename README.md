@@ -44,6 +44,6 @@ I am learning web development and having knowledge of HTML,CSS & Javascript. Bes
 </div>
  
  <p align="center"> 
- <b> You are visitor:</b><br>
+ <b> You are visitor :</b><br>
   <img src="https://profile-counter.glitch.me/chiragagrawal9200/count.svg" />
 </p>
