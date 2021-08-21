@@ -19,7 +19,7 @@ I am a Web Developer who loves contributing to communities. I am pursuing <b>Com
 
 <h1 align="center">Tech-Stack</h1>
 
-I am learning web development and having knowledge of HTML,CSS & Javascript. Beside that I also have a knowledge of C, C++ and Python.
+I'm a Tech fanatic, skilled in Python, C, C++, DSA, Java, Linux System Administration, Adobe Photoshop, and Adobe Illustrator.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
